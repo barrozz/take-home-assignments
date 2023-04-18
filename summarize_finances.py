@@ -99,11 +99,3 @@ if __name__ == "__main__":
 
         list_category_df = expenses_by_category(df)
         top_five_expenses(list_category_df, CURRENCY)
-
-
-'''
-pseudo code
-
-TODO: create a container with the files to be executed
-
-'''
