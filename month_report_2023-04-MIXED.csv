@@ -1,0 +1,19 @@
+date,description,category,amount
+2023-03-03,Groceries,Food,-300.00
+2023-03-05,Internet,Utilities,-60.00
+2023-03-06,Gym,Health,-50.00
+2023-04-01,Paycheck,Income,5000.00
+2023-04-02,Rent,Housing,-1500.00
+2023-04-03,Groceries,Food,-300.00
+2023-04-05,Internet,Utilities,-60.00
+2023-04-06,Gym,Health,-50.00
+2023-04-07,Phone,Utilities,-100.00
+2023-04-10,Dinner with friends,Entertainment,-100.00
+2023-04-15,Electricity,Utilities,-100.00
+2023-04-20,Shopping,Clothing,-200.00
+2023-04-25,Car payment,Transportation,-500.00
+2023-05-06,Gym,Health,-5.00
+2023-05-07,Phone,Utilities,-10.00
+2023-05-10,Dinner with friends,Entertainment,-10.00
+2023-05-15,Electricity,Utilities,-10.00
+2023-05-20,Shopping,Clothing,-20.00
